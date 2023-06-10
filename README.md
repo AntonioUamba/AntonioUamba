@@ -4,6 +4,8 @@
 
 ![AntonioUamba GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioUamba&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioUamba&hide=javascript,html)
+
 ## Tecnologias do meu dia a dia 
 
 <div style="display: inline_block"><br/>
