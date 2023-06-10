@@ -1,7 +1,6 @@
 ### ola sou Antonio Umanba 🔥
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-paulo-uamba-456871212/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://martinsuanba@gmail.com)
 
 ![AntonioUamba GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioUamba&show_icons=true&theme=dracula)
 
@@ -12,4 +11,4 @@
    <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="MONGOBD" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</div><br>
