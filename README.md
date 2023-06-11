@@ -1,11 +1,10 @@
 
-👋 Olá! ### ola sou Antonio Umanba 🔥
-
-🎓 Bacharel Engenharia da computação UNILAB (8° semestre)
-
-🌱 Estudando mecanismos para analise de de dados 
-
 ### ola sou Antonio Umanba 🔥
+
+
+
+ 
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-paulo-uamba-456871212/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](martinsuanba@gmail.com)
